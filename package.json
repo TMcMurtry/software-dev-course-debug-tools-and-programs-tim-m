@@ -1,0 +1,27 @@
+{
+  "name": "software-dev-course-debug-tools-and-programs-tim-m",
+  "version": "1.0.0",
+  "description": "Students will apply **debugging tools and strategies** to identify and fix errors in a pre-written JavaScript application.",
+  "main": "cart.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMcMurtry/software-dev-course-debug-tools-and-programs-tim-m.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TMcMurtry/software-dev-course-debug-tools-and-programs-tim-m/issues"
+  },
+  "homepage": "https://github.com/TMcMurtry/software-dev-course-debug-tools-and-programs-tim-m#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
